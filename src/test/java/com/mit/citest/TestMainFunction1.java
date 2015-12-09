@@ -18,4 +18,16 @@ public void test1(){
 	
 }
 
+@Test
+
+public void test2(){
+
+	MainFunction1 testFunction2 = new MainFunction1();
+	
+	testFunction2.setName("Mary");
+	testFunction2.getName();
+	testFunction2.walk();
+
+}
+
 }
