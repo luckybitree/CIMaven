@@ -38,15 +38,6 @@
         <version>3.12</version>
 </dependency>
 
-<dependency>
-      <groupId>com.oracle</groupId>
-      <artifactId>ojdbc14</artifactId>
-      <version>10.2.0.2.0</version>
-      <scope>test</scope>
-</dependency>
-
-
-
 
 </dependencies>
 
