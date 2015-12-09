@@ -53,4 +53,7 @@ public class MainFunction1 {
 		System.out.println("start running...");
 	}
 	
+	public void walk(){
+		System.out.println("start walking...");
+	}
 }
