@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13" started-at="2015-12-08T05:22:45Z" finished-at="2015-12-08T05:22:45Z">
+    <groups>
+    </groups>
+    <test name="SpaunAutoTest" duration-ms="13" started-at="2015-12-08T05:22:45Z" finished-at="2015-12-08T05:22:45Z">
+      <class name="com.mit.citest.TestMainFunction1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.mit.citest.TestMainFunction1@26653222]" name="test1" duration-ms="5" started-at="2015-12-08T16:22:45Z" finished-at="2015-12-08T16:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.mit.citest.TestMainFunction1 -->
+    </test> <!-- SpaunAutoTest -->
+  </suite> <!-- Suite -->
+</testng-results>
