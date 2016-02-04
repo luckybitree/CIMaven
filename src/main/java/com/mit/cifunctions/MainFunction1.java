@@ -9,7 +9,7 @@ public class MainFunction1 {
 	
 	
 	public MainFunction1() {
-		System.out.println("the MainFunction1 is initated!");
+		System.out.println("the MainFunction1 has been initated!!!");
 	}
 	
 	
